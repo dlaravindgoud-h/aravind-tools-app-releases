@@ -1,0 +1,22 @@
+==========================================
+Aravind Tools - Release Notes (2026-Aug-30 13-35)
+==========================================
+
+✨ Highlights & What's New:
+• Fixed Deposits: Portfolio dashboard, maturity yield summaries, and allocation charts.
+• Non-Banking Ledger: Complete expense/income tracking with camera & photo library receipt attachments, custom transaction dates, and counterparty account transfers.
+• Unified UI: Clean top-navigation bar layout, standardized title typography, and quick privacy eye masking.
+• Offline & Secure: Zero-trust local vault storage with automated backup support.
+
+📌 Recent Enhancements:
+• Restore counterparty account selector and Camera/Photo Library receipt attachment in Non-Banking ledger
+• Unify all Hub top bars to standard TopAppBar and remove non-functional placeholder buttons
+• Apply conditional display for Investment headers, Asset Allocation, and FD Bank/Holder donut charts
+• Standardize top bar layout, typography, navigation and action placements across all views
+• fix(investments): add BackHandler to FD list, detail, and form screens for back gesture support
+• fix(forms): fix cursor jump on 4-digit grouped account and card number inputs
+
+📱 Installation Instructions:
+1. Download 'aravind-tools.apk' to your Android device.
+2. Tap the downloaded file to install.
+3. If prompted by Android, allow "Install unknown apps" for your browser/files app and complete setup.
