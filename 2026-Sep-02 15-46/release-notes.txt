@@ -1,0 +1,28 @@
+==========================================
+Aravind Tools - Release Notes (2026-Sep-02 15-46)
+==========================================
+
+📥 Direct Download Link:
+https://github.com/dlaravindgoud-h/aravind-tools-app-releases/raw/main/2026-Sep-02%2015-46/aravind-tools.apk
+
+✨ Highlights & What's New:
+• Investments Hub: Equities (live market quotes & analytics), Mutual Funds (AMFI live NAV), Gold Vault (live city retail rates & valuation), Government Savings Schemes (PPF, SSY, NPS, SGB, EPF, SCSS with passbook ledger & 80C headroom).
+• Fixed Deposits: Portfolio dashboard, maturity schedules, interest yield calculations, and compounding schedules.
+• Unified Transactions & Communications: Chronological multi-instrument income/expense stream with SMS parser, smart instrument tagging, custom payee renaming, and auto-purge.
+• Non-Banking Ledger & Vault: Expense/income tracking with receipt images, secure credentials generator (Websites, Wi-Fi, Devices), and document vault with nested folders.
+• 100% Comprehensive Backup & Re-Encryption: Full zero-knowledge AES-256-GCM encrypted backup/restore covering all 22 database tables, disk assets, and application preferences.
+
+📌 Recent Enhancements:
+• chore(publish): format Direct Download as direct hyperlink in README and release notes
+• docs(about): update version history with v1.5.0 features (MFs, Gold, Govt Schemes) and enhance UI
+• chore: bump version to 1.5.0 (code 6)
+• feat(backup): ensure complete coverage of all 22 entities, logs, and settings in backup/restore
+• feat(investments): implement Government Savings Schemes with passbook ledger and 80C headroom tracking
+• fix(investments): display true live market valuation for Gold across hub, category cards, and asset allocation
+• fix(investments): correct Asset Allocation calculation for Worth, Invested, and PL modes
+• feat(investments): implement Gold investment module with regional rates & live valuation
+
+📱 Installation Instructions:
+1. Download 'aravind-tools.apk' from: https://github.com/dlaravindgoud-h/aravind-tools-app-releases/raw/main/2026-Sep-02%2015-46/aravind-tools.apk
+2. Tap the downloaded file on your Android device to install.
+3. If prompted by Android, allow "Install unknown apps" for your browser/files app and complete setup.
