@@ -1,0 +1,29 @@
+==========================================
+Aravind Tools - Release Notes (2026-Sep-04 09-12)
+==========================================
+
+📥 Direct Download Link:
+https://github.com/dlaravindgoud-h/aravind-tools-app-releases/raw/main/2026-Sep-04%2009-12/aravind-tools.apk
+
+✨ Highlights & What's New:
+• Automated Incoming SMS Queue & Permission Warnings: High-priority SMS broadcast receiver, persistent FIFO disk staging queue, asynchronous queue drainage on vault unlock, deterministic SHA-256 deduplication, and prominent 1-tap permission warning cards for SMS and Non-Banking media permissions.
+• Investments Hub: Real Estate Portfolio (specs, maps, rental yields, capital gains), Personal Lendings (PL) with recurring payment schedules & borrower statements, Equities (live market quotes & analytics), Mutual Funds (AMFI live NAV), Gold Vault (live city retail rates & valuation), Government Savings Schemes (PPF, SSY, NPS, SGB, EPF, SCSS with passbook ledger & 80C headroom).
+• Fixed Deposits: Portfolio dashboard, maturity schedules, interest yield calculations, and compounding schedules.
+• Unified Transactions & Communications: Chronological multi-instrument income/expense stream with SMS parser, smart instrument tagging, custom payee renaming, and auto-purge.
+• Non-Banking Ledger & Vault: Expense/income tracking with receipt images, secure credentials generator (Websites, Wi-Fi, Devices), and document vault with nested folders.
+• 100% Comprehensive Backup & Re-Encryption: Full zero-knowledge AES-256-GCM encrypted backup/restore covering all 22 database tables, disk assets, and application preferences.
+
+📌 Recent Enhancements:
+• chore(publish): update highlights with automated incoming SMS queue and permission warning suite
+• chore(release): bump version to 1.7.0 (8), update in-app version history, specs.txt, and README.md
+• feat(permissions): add warning cards for SMS reading and non-banking media permissions
+• feat(txns): implement incoming SMS queue and asynchronous processing engine
+• chore(release): bump version to 1.6.0 (7), update in-app version history, specs.txt, and README.md
+• fix(investments): harmonize card elevations, corner shapes, and backgrounds across real estate, gov schemes, gold, equities, and mutual funds
+• fix(pl): align card elevation, shape, and background colors with FD and investment cards
+• feat(seed): wipe all existing investments and seed authentic, varied entries across all 7 categories
+
+📱 Installation Instructions:
+1. Download 'aravind-tools.apk' from: https://github.com/dlaravindgoud-h/aravind-tools-app-releases/raw/main/2026-Sep-04%2009-12/aravind-tools.apk
+2. Tap the downloaded file on your Android device to install.
+3. If prompted by Android, allow "Install unknown apps" for your browser/files app and complete setup.
