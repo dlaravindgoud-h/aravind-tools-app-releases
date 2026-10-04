@@ -1,0 +1,31 @@
+==========================================
+Aravind Tools - Release Notes (2026-Oct-04 11-44)
+==========================================
+
+📥 Direct Download Link:
+https://github.com/dlaravindgoud-h/aravind-tools-app-releases/raw/main/2026-Oct-04%2011-44/aravind-tools.apk
+
+✨ Highlights & What's New:
+• Extended Evaluation Preview to 31-Mar-2027: Extended active preview evaluation window through March 31, 2027 with dynamic day count badge in Settings -> About and hardware clock anti-tamper security.
+• Non-Banking Statement PDF Export with Receipts: Dedicated option to embed transaction photo receipts in PDF statements with proportional scaling and intelligent multi-page pagination.
+• Automated Incoming SMS Queue & Permission Warnings: High-priority SMS broadcast receiver, persistent FIFO disk staging queue, asynchronous queue drainage on vault unlock, deterministic SHA-256 deduplication, and prominent 1-tap permission warning cards for SMS and Non-Banking media permissions.
+• Investments Hub: Real Estate Portfolio (specs, maps, rental yields, capital gains), Personal Lendings (PL) with recurring payment schedules & borrower statements, Equities (live market quotes & analytics), Mutual Funds (AMFI live NAV), Gold Vault (live city retail rates & valuation), Government Savings Schemes (PPF, SSY, NPS, SGB, EPF, SCSS with passbook ledger & 80C headroom).
+• Fixed Deposits: Portfolio dashboard, maturity schedules, interest yield calculations, and compounding schedules.
+• Unified Transactions & Communications: Chronological multi-instrument income/expense stream with SMS parser, smart instrument tagging, custom payee renaming, and auto-purge.
+• Non-Banking Ledger & Vault: Expense/income tracking with receipt images, secure credentials generator (Websites, Wi-Fi, Devices), and document vault with nested folders.
+• 100% Comprehensive Backup & Re-Encryption: Full zero-knowledge AES-256-GCM encrypted backup/restore covering all 22 database tables, disk assets, and application preferences.
+
+📌 Recent Enhancements:
+• chore(publish): add v1.9.0 evaluation extension to publish release highlights
+• chore(release): bump version to 1.9.0 (10), update in-app version history, specs.txt, and README.md
+• feat(trial): extend evaluation preview date to 31-Mar-2027
+• chore(release): Bump version to v1.8.0 (versionCode 9), update release notes in version_history.json and README.md
+• Add receipt image export option and multi-page layout engine for Non-Banking account PDF statements
+• chore(publish): update highlights with automated incoming SMS queue and permission warning suite
+• chore(release): bump version to 1.7.0 (8), update in-app version history, specs.txt, and README.md
+• feat(permissions): add warning cards for SMS reading and non-banking media permissions
+
+📱 Installation Instructions:
+1. Download 'aravind-tools.apk' from: https://github.com/dlaravindgoud-h/aravind-tools-app-releases/raw/main/2026-Oct-04%2011-44/aravind-tools.apk
+2. Tap the downloaded file on your Android device to install.
+3. If prompted by Android, allow "Install unknown apps" for your browser/files app and complete setup.
